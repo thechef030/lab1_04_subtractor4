@@ -1,5 +1,5 @@
 {
-  "sources": ["src/design.v"],
-  "testbench": "sim/tb_design.v",
-  "simulation_top": "tb_design"
+  "sources": ["src/sub_4bit.v"],
+  "testbench": "sim/tb_sub_4bit.sv",
+  "simulation_top": "tb_sub_4bit"
 }
